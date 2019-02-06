@@ -1,2 +1,4 @@
-# jupyter-lab-remote-server
-Setting up a Jupyter Lab on a remote server
+
+
+### Siddarth's Blog:
+https://agent-jay.github.io/2018/03/jupyterserver/
